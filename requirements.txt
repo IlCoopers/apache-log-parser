@@ -1,4 +1,4 @@
 Flask==2.3.2
-mysql-connector-python==8.0.33
+mysql-connector-python==9.1.0
 PySimpleGUI==4.60.5
 configparser==5.3.0
